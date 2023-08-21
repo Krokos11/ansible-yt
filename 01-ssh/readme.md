@@ -56,3 +56,6 @@ and add line with alias
 ```
 alias ssha='eval $(ssh-agent) && ssh-add'
 ```
+
+## Login to github using ssh
+Thanks to previous moves, you can easily clone github repository using ssh keys. Just add public ssh key to repository and then clone repo using ssh link.
