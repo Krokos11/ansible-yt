@@ -1,0 +1,2 @@
+krokos@192.168.1.8 apache_package=apache2 php_package=libapache2-mod-php
+krokos@192.168.1.16 apache_package=apache2 php_package=libapache2-mod-php
