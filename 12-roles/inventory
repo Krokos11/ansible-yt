@@ -1,0 +1,11 @@
+[web_servers]
+krokos@192.168.1.8
+
+[db_servers]
+krokos@192.168.1.16
+
+[file_servers]
+krokos@192.168.1.14
+
+[workstations]
+krokos@192.168.1.8
